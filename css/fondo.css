@@ -1,0 +1,32 @@
+
+ body{
+ background-image: url("../imagenes/Page-Bg.jpg");
+ 
+ color: red;
+ 
+ font-size:40px;
+ font: bold;
+ }
+ 
+ h1{
+
+  font-size:100px;
+ }
+
+
+ 
+A:link {text-decoration:none;color:red;} 
+
+A:visited {text-decoration:none;color:red;} 
+
+A:hover {text-decoration:underline;color:blue;} 
+
+/*
+A:active {text-decoration:none;color:#ff0000;} 
+link 		aun no visitados
+visited		visitados 
+active		justo cuando pulsas
+hover		cuando pasas el raton por encima
+*/
+
+
